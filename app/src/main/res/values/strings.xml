@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Simpsons Minor Characters Quotes</string>
+    <string name="mainFrag">Main fragment</string>
+    <string name="aboutme">All images are taken from the Simpsons wiki: http://simpsons.wikia.com/wiki/Simpsons_Wiki</string>
+    <string name="aboutme2">Credit</string>
+    <string name="help">Tap on the character names to read my favorite quote from each character</string>
+    <string name="help2">Help</string>
+    <string name="work">Yes</string>
+    <string name="work2">Is this button working</string>
+    <string name="dev">This was made by Clayton Brimm. By day he lives the life of a mild mannered programmer. By night he is a very impatient and angry programmer.</string>
+    <string name="dev2">Developer</string>
+
+    <string-array name="Characters">
+        <item>Hans Moleman</item>
+        <item>Mr. Sparkle</item>
+        <item>Hank Scorpio</item>
+        <item>Dr. Nick Riviera</item>
+        <item>Gil Gunderson</item>
+        <item>Superintendent Chalmers</item>
+        <item>Otto Mann</item>
+    </string-array>
+    //array of strings that are the quotes from each character
+    <string-array name="Quote">
+        <item>\"The eating of an orange is a lot like a good marriage.\"</item>
+        <item>\"I am the harsh nemesis of all that is unclean!!! Taste the zestful bubbling foam of my
+            vengeance!\"</item>
+        <item>\"By the way, what""\'""s your least favorite country, Italy or France?\"</item>
+        <item>\"The kneebone""\'""s connected to the... something. The something""\'""s connected to the... red thing. The red thing""\'""s connected to my wrist watch... Uh oh.\"</item>
+        <item>\"Put in a good word for your buddy Gil…the wolves are at Old Gil’s door…oh boy\"</item>
+        <item>\"The Aurora Borealis? At this time of year? At this time of day? In this part of the
+            country? Localized entirely within your kitchen?\"</item>
+        <item>\"Wow. I""\'""ve never been referred to as an adult before. I""\'""ve been tried as one.\"</item>
+    </string-array>
+</resources>

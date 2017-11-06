@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2f64d6</color>
+    <color name="colorPrimaryDark">#9c5b01</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="simpsonsYellow">#f8db27</color>
+    <color name="simpsonsBrown">#9c5b01</color>
+    <color name="simpsonsBlue">#2f64d6</color>
+    <color name="simpsonsPink">#ff81c1</color>
+</resources>

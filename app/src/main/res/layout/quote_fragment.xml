@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/characterpic"
+        android:layout_height="0dp"
+        android:paddingTop="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        android:layout_weight="3"
+        android:layout_width="match_parent"
+        android:adjustViewBounds="false"
+        android:src="@mipmap/simpsons_logo"/>
+
+    <TextView
+        android:id="@+id/quoteView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:textSize="21dp"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"/>
+
+</LinearLayout>

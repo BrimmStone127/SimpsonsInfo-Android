@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/displayFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight=".25"
+    />
+
+    <fragment
+        android:id="@+id/info"
+        class="com.hw1.clay.simpsonsinfo.infoFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"/>
+
+    <fragment
+        android:id="@+id/items"
+        class="com.hw1.clay.simpsonsinfo.itemFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        tools:layout="@layout/activity_home"
+
+        />
+
+</LinearLayout>

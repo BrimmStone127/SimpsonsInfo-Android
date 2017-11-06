@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="characterpics">
+        <item>@mipmap/hans_moleman</item>
+        <item>@mipmap/mr_sparkle</item>
+        <item>@mipmap/hank_scorpio</item>
+        <item>@mipmap/nick_riviera</item>
+        <item>@mipmap/gil_gunderson</item>
+        <item>@mipmap/super_chalmers</item>
+        <item>@mipmap/otto_mann</item>
+    </integer-array>
+</resources>
